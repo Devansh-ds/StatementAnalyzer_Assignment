@@ -202,7 +202,7 @@ src/test/java/com/assignment
 
 ```bash
 git clone https://github.com/Devansh-ds/StatementAnalyzer_Assignment.git
-cd StatementAnalyzer_Assignment
+cd StatementAnalyzer_Assignment/StatementAnalyzer
 mvn clean install
 mvn spring-boot:run
 ```
